@@ -1,4 +1,4 @@
-# 阿尔都塞 · 思维操作系统
+# 阿尔都塞 · skill
 
 > 意识形态不提供关于外部世界的真实知识，而是提供了关于个体与其真实存在条件之间想象关系的"表述"。
 
@@ -79,4 +79,3 @@ althusser-perspective/
 
 ---
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成 · 创建者：[花叔](https://x.com/AlchainHust)
