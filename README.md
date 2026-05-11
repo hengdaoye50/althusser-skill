@@ -1,4 +1,5 @@
-# 阿尔都塞 · skill
+#  Althusser· skill
+<img width="250" height="396" alt="Althusser" src="https://github.com/user-attachments/assets/64203432-235e-4a92-9695-13c41bfe4328" />
 
 > 意识形态不提供关于外部世界的真实知识，而是提供了关于个体与其真实存在条件之间想象关系的"表述"。
 
